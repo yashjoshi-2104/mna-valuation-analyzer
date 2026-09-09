@@ -1,0 +1,21 @@
+company_id,name,revenue_musd,ebitda_musd,net_income_musd,market_cap_musd,enterprise_value_musd,ebitda_margin_pct,debt_to_ebitda,pe_ratio,ev_revenue,ev_ebitda,ticker,industry,sector,geography
+C001,Salesforce,37895.0,10250.0,6197.0,325620.0,322413.0,27.05,0.97,52.54,8.51,31.45,CRM,Application Software,Technology,USA
+C002,Oracle,57399.0,23500.0,12443.0,483000.0,564399.0,40.94,3.94,38.82,9.83,24.02,ORCL,Application Software,Technology,USA
+C003,SAP SE,34172.0,7800.0,3707.0,294960.0,299360.0,22.83,1.35,79.57,8.76,38.38,SAP,Application Software,Technology,Germany
+C004,Adobe,21505.0,9600.0,5560.0,227240.0,228038.0,44.64,0.82,40.87,10.6,23.75,ADBE,Application Software,Technology,USA
+C005,ServiceNow,10984.0,2650.0,1552.0,198550.0,198385.0,24.13,0.84,127.93,18.06,74.86,NOW,Application Software,Technology,USA
+C006,Workday,7723.0,1150.0,357.0,61455.0,61455.0,14.89,2.52,172.14,7.96,53.44,WDAY,Application Software,Technology,USA
+C007,Intuit,16285.0,4600.0,2963.0,170800.0,173300.0,28.25,1.33,57.64,10.64,37.67,INTU,Application Software,Technology,USA
+C008,HubSpot,2629.0,150.0,-46.0,27930.0,26777.0,5.71,4.98,,10.19,178.51,HUBS,Application Software,Technology,USA
+C009,Atlassian,4356.0,420.0,-182.0,48830.0,47430.0,9.64,2.38,,10.89,112.93,TEAM,Application Software,Technology,Australia
+C010,SS&C Technologies,5825.0,1750.0,663.0,11016.0,16316.0,30.04,3.2,16.62,2.8,9.32,SSNC,Application Software,Technology,USA
+C011,Autodesk,5497.0,1650.0,1194.0,60705.0,61105.0,30.02,1.52,50.84,11.12,37.03,ADSK,Application Software,Technology,USA
+C012,Synopsys,6707.0,1900.0,1197.0,79040.0,75965.0,28.33,0.01,66.03,11.33,39.98,SNPS,Application Software,Technology,USA
+C013,Cadence Design Systems,4640.0,1550.0,1230.0,81600.0,80400.0,33.41,0.45,66.34,17.33,51.87,CDNS,Application Software,Technology,USA
+C014,Palo Alto Networks,8028.0,1400.0,262.0,111180.0,109430.0,17.44,1.25,424.35,13.63,78.16,PANW,Application Software,Technology,USA
+C015,CrowdStrike,3440.0,120.0,-19.0,80520.0,77860.0,3.49,6.17,,22.63,648.83,CRWD,Application Software,Technology,USA
+C016,Datadog,2129.0,270.0,45.0,45110.0,43957.0,12.68,2.77,1002.44,20.65,162.8,DDOG,Application Software,Technology,USA
+C017,Zscaler,2168.0,180.0,63.0,28120.0,27070.0,8.3,6.39,446.35,12.49,150.39,ZS,Application Software,Technology,USA
+C018,Snowflake,2809.0,-350.0,-1298.0,53010.0,51487.0,-12.46,,,18.33,,SNOW,Application Software,Technology,USA
+C019,Splunk,3892.0,650.0,-235.0,26219.0,25719.0,16.7,3.38,,6.61,39.57,SPLK,Application Software,Technology,USA
+C020,VMware,13350.0,3800.0,1876.0,61202.0,65102.0,28.46,1.92,32.62,4.88,17.13,VMW,Application Software,Technology,USA

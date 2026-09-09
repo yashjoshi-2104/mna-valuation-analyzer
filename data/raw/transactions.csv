@@ -1,0 +1,26 @@
+deal_id,acquirer,target,announce_date,deal_value_musd,industry,target_revenue_musd,target_ebitda_musd,ev_revenue,ev_ebitda,geography,deal_type
+T001,Cisco,Splunk,2023-09-21,28000,Application Software,3892,650,7.2,43.1,USA,Cash
+T002,Broadcom,VMware,2022-05-26,61000,Application Software,13350,3800,4.6,16.1,USA,Cash+Stock
+T003,IBM,HashiCorp,2024-04-24,6400,Application Software,644,-90,9.9,NM,USA,Cash
+T004,Salesforce,Slack,2020-12-01,27700,Application Software,902,-141,30.7,NM,USA,Cash+Stock
+T005,SAP,Qualtrics,2018-11-11,8000,Application Software,400,-60,20.0,NM,USA,Cash
+T006,Thoma Bravo,Anaplan,2022-03-21,10700,Application Software,590,-140,18.1,NM,USA,Cash
+T007,Vista Equity,Citrix,2022-01-31,16500,Application Software,3223,1050,5.1,15.7,USA,Cash
+T008,Thoma Bravo,Coupa Software,2022-12-12,8000,Application Software,725,-40,11.0,NM,USA,Cash
+T009,Adobe,Figma (terminated),2022-09-15,20000,Application Software,400,50,50.0,400.0,USA,Cash+Stock
+T010,Vista Equity,Duck Creek Technologies,2023-01-09,2600,Application Software,281,20,9.3,130.0,USA,Cash
+T011,Thoma Bravo,SailPoint,2022-04-11,6900,Application Software,423,10,16.3,NM,USA,Cash
+T012,Advent International,Maplebear (Instacart stake),2021-03-01,39000,Application Software,1500,50,26.0,780.0,USA,Cash
+T013,Insight Partners,Recorded Future,2024-09-19,2650,Application Software,300,60,8.8,44.2,USA,Cash
+T014,Synopsys,Ansys,2024-01-16,35000,Application Software,2280,900,15.4,38.9,USA,Cash+Stock
+T015,HPE,Juniper Networks,2024-01-09,14000,Application Software,5000,900,2.8,15.6,USA,Cash
+T016,Thoma Bravo,ForgeRock,2022-10-11,2300,Application Software,207,-30,11.1,NM,USA,Cash
+T017,Roper Technologies,Procare Solutions,2023-11-01,1863,Application Software,120,45,15.5,41.4,USA,Cash
+T018,Roper Technologies,Certain Inc,2024-08-01,410,Application Software,55,20,7.5,20.5,USA,Cash
+T019,Permira,Squarespace,2024-05-13,6900,Application Software,1090,270,6.3,25.6,USA,Cash
+T020,KKR,Instructure,2024-02-14,4800,Application Software,536,180,9.0,26.7,USA,Cash
+T021,Francisco Partners,Sumo Logic,2023-12-04,1700,Application Software,343,-70,5.0,NM,USA,Cash
+T022,Bain Capital,Envestnet,2024-08-26,4500,Application Software,1350,220,3.3,20.5,USA,Cash
+T023,Vista Equity,EngageSmart,2023-08-18,4000,Application Software,325,60,12.3,66.7,USA,Cash
+T024,Clearlake/Insight,Alteryx,2024-03-25,4400,Application Software,974,120,4.5,36.7,USA,Cash
+T025,Rocket Software,OpenText (AMC assets),2023-10-02,2275,Application Software,300,60,7.6,37.9,USA,Cash

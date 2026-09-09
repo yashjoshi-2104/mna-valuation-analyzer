@@ -1,0 +1,26 @@
+deal_id,acquirer,target,announce_date,deal_value_musd,industry,target_revenue_musd,target_ebitda_musd,ev_revenue,ev_ebitda,geography,deal_type
+T013,Insight Partners,Recorded Future,2024-09-19,2650.0,Application Software,300.0,60.0,8.8,44.2,USA,Cash
+T022,Bain Capital,Envestnet,2024-08-26,4500.0,Application Software,1350.0,220.0,3.3,20.5,USA,Cash
+T018,Roper Technologies,Certain Inc,2024-08-01,410.0,Application Software,55.0,20.0,7.5,20.5,USA,Cash
+T019,Permira,Squarespace,2024-05-13,6900.0,Application Software,1090.0,270.0,6.3,25.6,USA,Cash
+T003,IBM,HashiCorp,2024-04-24,6400.0,Application Software,644.0,-90.0,9.9,,USA,Cash
+T024,Clearlake/Insight,Alteryx,2024-03-25,4400.0,Application Software,974.0,120.0,4.5,36.7,USA,Cash
+T020,KKR,Instructure,2024-02-14,4800.0,Application Software,536.0,180.0,9.0,26.7,USA,Cash
+T014,Synopsys,Ansys,2024-01-16,35000.0,Application Software,2280.0,900.0,15.4,38.9,USA,Cash+Stock
+T015,HPE,Juniper Networks,2024-01-09,14000.0,Application Software,5000.0,900.0,2.8,15.6,USA,Cash
+T021,Francisco Partners,Sumo Logic,2023-12-04,1700.0,Application Software,343.0,-70.0,5.0,,USA,Cash
+T017,Roper Technologies,Procare Solutions,2023-11-01,1863.0,Application Software,120.0,45.0,15.5,41.4,USA,Cash
+T025,Rocket Software,OpenText (AMC assets),2023-10-02,2275.0,Application Software,300.0,60.0,7.6,37.9,USA,Cash
+T001,Cisco,Splunk,2023-09-21,28000.0,Application Software,3892.0,650.0,7.2,43.1,USA,Cash
+T023,Vista Equity,EngageSmart,2023-08-18,4000.0,Application Software,325.0,60.0,12.3,66.7,USA,Cash
+T010,Vista Equity,Duck Creek Technologies,2023-01-09,2600.0,Application Software,281.0,20.0,9.3,130.0,USA,Cash
+T008,Thoma Bravo,Coupa Software,2022-12-12,8000.0,Application Software,725.0,-40.0,11.0,,USA,Cash
+T016,Thoma Bravo,ForgeRock,2022-10-11,2300.0,Application Software,207.0,-30.0,11.1,,USA,Cash
+T009,Adobe,Figma (terminated),2022-09-15,20000.0,Application Software,400.0,50.0,50.0,400.0,USA,Cash+Stock
+T002,Broadcom,VMware,2022-05-26,61000.0,Application Software,13350.0,3800.0,4.6,16.1,USA,Cash+Stock
+T011,Thoma Bravo,SailPoint,2022-04-11,6900.0,Application Software,423.0,10.0,16.3,,USA,Cash
+T006,Thoma Bravo,Anaplan,2022-03-21,10700.0,Application Software,590.0,-140.0,18.1,,USA,Cash
+T007,Vista Equity,Citrix,2022-01-31,16500.0,Application Software,3223.0,1050.0,5.1,15.7,USA,Cash
+T012,Advent International,Maplebear (Instacart stake),2021-03-01,39000.0,Application Software,1500.0,50.0,26.0,780.0,USA,Cash
+T004,Salesforce,Slack,2020-12-01,27700.0,Application Software,902.0,-141.0,30.7,,USA,Cash+Stock
+T005,SAP,Qualtrics,2018-11-11,8000.0,Application Software,400.0,-60.0,20.0,,USA,Cash

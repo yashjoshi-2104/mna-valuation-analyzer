@@ -1,0 +1,21 @@
+company_id,name,ticker,industry,sector,geography,revenue_musd,revenue_growth_pct,ebitda_musd,net_income_musd,total_debt_musd,cash_musd,shares_outstanding_m,share_price_usd
+C001,Salesforce,CRM,Application Software,Technology,USA,37895,9.0,10250,6197,9993,13200,972,335.0
+C002,Oracle,ORCL,Application Software,Technology,USA,57399,9.3,23500,12443,92599,11200,2760,175.0
+C003,SAP SE,SAP,Application Software,Technology,Germany,34172,10.4,7800,3707,10500,6100,1229,240.0
+C004,Adobe,ADBE,Application Software,Technology,USA,21505,10.9,9600,5560,7898,7100,437,520.0
+C005,ServiceNow,NOW,Application Software,Technology,USA,10984,22.0,2650,1552,2235,2400,209,950.0
+C006,Workday,WDAY,Application Software,Technology,USA,7723,16.5,1150,357,2900,2900,241,255.0
+C007,Intuit,INTU,Application Software,Technology,USA,16285,12.8,4600,2963,6100,3600,280,610.0
+C008,HubSpot,HUBS,Application Software,Technology,USA,2629,20.5,150,-46,747,1900,49,570.0
+C009,Atlassian,TEAM,Application Software,Technology,Australia,4356,20.5,420,-182,1000,2400,257,190.0
+C010,SS&C Technologies,SSNC,Application Software,Technology,USA,5825,6.0,1750,663,5600,300,153,72.0
+C011,Autodesk,ADSK,Application Software,Technology,USA,5497,10.0,1650,1194,2500,2100,213,285.0
+C012,Synopsys,SNPS,Application Software,Technology,USA,6707,14.0,1900,1197,25,3100,152,520.0
+C013,Cadence Design Systems,CDNS,Application Software,Technology,USA,4640,15.0,1550,1230,700,1900,272,300.0
+C014,Palo Alto Networks,PANW,Application Software,Technology,USA,8028,16.0,1400,262,1750,3500,327,340.0
+C015,CrowdStrike,CRWD,Application Software,Technology,USA,3440,29.0,120,-19,740,3400,244,330.0
+C016,Datadog,DDOG,Application Software,Technology,USA,2129,26.0,270,45,747,1900,347,130.0
+C017,Zscaler,ZS,Application Software,Technology,USA,2168,32.0,180,63,1150,2200,148,190.0
+C018,Snowflake,SNOW,Application Software,Technology,USA,2809,30.0,-350,-1298,2277,3800,342,155.0
+C019,Splunk,SPLK,Application Software,Technology,USA,3892,11.0,650,-235,2200,2700,167,157.0
+C020,VMware,VMW,Application Software,Technology,USA,13350,7.0,3800,1876,7300,3400,431,142.0

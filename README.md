@@ -274,19 +274,4 @@ beyond software, PCA/clustering visualization of the comp universe,
 sensitivity analysis on chosen multiples, Docker packaging, and streaming
 responses for the AI chat.
 
-
-## 13. Resume Bullets
-
-- Built an end-to-end M&A valuation platform (Python, DuckDB, FastAPI,
-  React) that computes trading-comps and precedent-transaction valuation
-  ranges from a 20-company, 25-deal dataset sourced from public filings.
-- Designed an unsupervised comparable-company recommendation engine
-  (scikit-learn StandardScaler + cosine similarity) with fully explainable,
-  auditable outputs.
-- Implemented a deterministic financial analytics layer (EV, EBITDA margin,
-  Debt/EBITDA, P/E) with documented edge-case handling for loss-making and
-  zero-revenue companies, covered by a 19-test pytest suite.
-- Shipped a REST API (FastAPI) and a React/Vite frontend with a custom
-  data-visualization component (blended valuation range chart).
-
 *(Only claims that are actually true of this build — no invented metrics.)*
